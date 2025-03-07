@@ -1,4 +1,4 @@
-# 💻 Full Stack Developer | Aryan Dantani
+# 💻 Full Stack Developer | Shareya Dantani
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-dantani-674278305/)](https://www.linkedin.com/in/aryan-dantani-674278305/)
 [![Gmail Badge](https://img.shields.io/badge/-dantaniaryan47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dantaniaryan47@gmail.com)](mailto:dantaniaryan47@gmail.com)
@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 Hello, I'm Aryan Dantani!
+### 👋 Hello, I'm Shareya Dantani!
 
 I am a dedicated full-stack developer passionate about building dynamic, scalable, and user-friendly web applications. My journey in web development began with a deep curiosity about how the web functions, which has grown into a rewarding career fueled by continuous learning and innovation."
 
