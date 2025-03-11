@@ -38,53 +38,6 @@ Let me know if you'd like to make any further adjustments!
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
----
-
-## 📚 Projects
-
-### [Project 1: Multimart]([https://github.com/yourusername/project1](https://github.com/aryanDantani/multimart-react-ecommerce-main))
-A brief description of the project, what technologies were used, and what problem it solves.
-
-- **Tech Stack:** 
-  - react.js (create-react-app)
-  - react-dom-router
-  - react-bootstrap
-  - state management using Redux Toolkit
-
-- **Features:**
-  - 📱 Beauty UI similar to ecommerce website
-  - 🌐 Fully responsive and mobile friendly
-  - 👨‍💻User can add items to cart
-  - 👨‍💻User can view details of an item
-  - 📈User can show total price in cart
-  - ✨ In Item page user can add quantity of item to cart instead of click add more and more
-
-### [Project 2: Nike](https://github.com/aryanDantani/Nike)
-A brief description of the project, what technologies were used, and what problem it solves.
-
-- **Tech Stack:** React, Context API, Firebase
-- **Features:**
-  - 🌐 Feature 1
-  - 🔒 Feature 2
-  - 📈 Feature 3
-
-  - 🌐 Maximizing Tailwind CSS
-  - ✨ Best Practices
-  - 📈 Complex Hero Section
-  - 🔒 For the convenience of further development of the project, the business logic of the application is implemented, 
-    dynamic data is placed in a separate folder "constants".
-
-### [Project 3: Your Project Name](https://github.com/yourusername/project3)
-A brief description of the project, what technologies were used, and what problem it solves.
-
-- **Tech Stack:** React, TypeScript, Tailwind CSS
-- **Features:**
-  - 📱 Feature 1
-  - 🔍 Feature 2
-  - ✨ Feature 3
-
----
-
 ## 📈 GitHub Stats
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanDantani&show_icons=true&theme=radical&hide_title=true)  
